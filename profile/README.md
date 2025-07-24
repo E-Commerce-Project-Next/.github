@@ -13,11 +13,11 @@ _E-Commerce Project Next_ es un sistema de microservicios diseñado como prácti
 | 👤 [User Service](https://github.com/tu-organizacion/user-service) | Perfil de usuario, direcciones y preferencias. |
 | 🛍️ [Product Service](https://github.com/tu-organizacion/product-service) | Gestión de productos, categorías e inventario. |
 | 🧾 [Order Service](https://github.com/tu-organizacion/order-service) | Manejo de órdenes, historial y estados. |
+| 🛒 [Cart Service](https://github.com/tu-organizacion/payment-service) | Manejo de productos seleccionados |
 | 💳 [Payment Service](https://github.com/tu-organizacion/payment-service) | Integración con pasarelas de pago y facturación. |
 | 📦 [Shipping Service](https://github.com/tu-organizacion/shipping-service) | Cálculo de envíos, seguimiento y estados logísticos. |
-| 💬 [Review Service](https://github.com/tu-organizacion/review-service) | Reseñas, calificaciones y moderación. |
+| 💬 [Blog Service](https://github.com/tu-organizacion/review-service) | Reseñas, comunicación y moderación. |
 | 📬 [Notification Service](https://github.com/tu-organizacion/notification-service) | Correos, mensajes de sistema y eventos. |
-| 🧠 [Recommendation Engine](https://github.com/tu-organizacion/recommendation-engine) | Sugerencias de productos basadas en comportamiento. |
 | 🧰 [API Gateway](https://github.com/tu-organizacion/api-gateway) | Enrutamiento de tráfico externo a los servicios. |
 
 ---
