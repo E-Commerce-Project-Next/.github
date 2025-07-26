@@ -34,7 +34,7 @@ _E-Commerce Project Next_ es un sistema de microservicios diseñado como prácti
 
 | Otro | Descripción |
 |------|-------------|
-| 🗂️ Docs | Documentación técnica del sistema. |
+| 🗂️ [Docs](https://github.com/E-Commerce-Project-Next/E-Commerce-Docs/) | Documentación técnica del sistema. |
 | ⚗️ Sandbox | Entorno de pruebas para nuevos módulos o ideas. |
 
 ---
